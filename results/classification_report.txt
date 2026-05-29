@@ -1,0 +1,12 @@
+Test Loss: 0.0400
+Test Accuracy: 0.9915
+
+Classification Report:
+              precision    recall  f1-score   support
+
+        cats       0.99      0.99      0.99      1875
+        dogs       0.99      0.99      0.99      1875
+
+    accuracy                           0.99      3750
+   macro avg       0.99      0.99      0.99      3750
+weighted avg       0.99      0.99      0.99      3750
